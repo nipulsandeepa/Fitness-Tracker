@@ -4,11 +4,6 @@ A modern, beautiful, and fully functional fitness tracking mobile app built with
 
 Track your workouts, monitor your progress, maintain streaks, unlock achievements, and stay motivated every day!
 
-![App Banner](https://via.placeholder.com/800x400/6B46C1/FFFFFF?text=Fitness+Tracker)
-*(Replace with actual screenshot once available)*
-
----
-
 ## ✨ Features
 
 ### 🔹 Core Features
@@ -198,7 +193,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+This project is licensed under the **MIT License**.
 
 ---
 
