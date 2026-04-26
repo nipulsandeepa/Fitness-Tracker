@@ -1,0 +1,52 @@
+name: fitness_tracker
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.11.0
+  cloud_firestore: ^5.6.3
+  firebase_auth: ^5.5.1  
+  syncfusion_flutter_charts: ^22.2.7
+  table_calendar: ^3.0.9
+  confetti: ^0.7.0
+  intl: ^0.18.1
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  http: ^1.1.0 
+  webview_flutter: ^4.9.0
+  url_launcher: ^6.1.11
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  uses-material-design: true
+
+
+   # To add assets to your application, add an assets section, like this:
+  assets:
+    - lib/images/workout.png
+    - lib/images/dumbell.png
+    - lib/images/j1.png
+    - lib/images/lop.png
+    - lib/images/wo.jpg
+    - lib/images/heart.png
+    - lib/images/girl.png
+    - lib/images/yoga.png
+    - lib/images/good.png
+    - lib/images/home.png
+    - lib/images/home2.png
+
